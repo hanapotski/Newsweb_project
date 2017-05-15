@@ -139,7 +139,7 @@ h4 {
 	background-position: 1em .95em;
 	clear: both;
 	}
-	#nav-toggle:hover {
+#nav-toggle:hover {
 	color: #ffffff;
 	background-image: url(file:../images/responsive-nav-hover.png);
 	background-repeat: no-repeat;
