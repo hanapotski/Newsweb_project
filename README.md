@@ -1,2 +1,2 @@
-# Newsweb_project - https://hanapotski.github.io/newswebproject
+# Newsweb Project
 1st project for web design class
