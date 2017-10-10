@@ -1,2 +1,2 @@
-# Newsweb_project
+# Newsweb Project
 1st project for web design class
